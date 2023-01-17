@@ -61,24 +61,13 @@ education:
       university: AGH Unviersity of Science and Technology
       time: 2015 - 216
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Diploma thesis: „Speed measurement based on HB-100 radar
+        module”
     - degree: BSc in Robotics
       university: Bristol University
       time: 2011 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Diploma thesis: „Design of 3-axis active camera stabilizing system”
 experiences:
   title: Experiences
   info:
@@ -86,15 +75,7 @@ experiences:
       time: 05.2022 - Present
       company: SoftwareMill, Warsaw
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Responsible for migration of old application written in Groovy and Grails to a new application written in Java 17 and Spring.
           - Bullet point
           - Bullet point
     - role: Java Backend Developer
@@ -122,9 +103,9 @@ experiences:
         The project was a production assembly line for Vinfast cars in Vietnam.
           - Bullet point
           - Bullet point
-    - role:
+    - role: Control Systems Programmer
       time: 05.2017 - 08.2018
-      company: RW Swiss Automation, Poznan
+      company: ControlSolution, Gdansk
       details: |
         I was developing and commissioning software for PLC controllers in LAD language. 
         I was involved in a project for Borgwarner, where I was writing software for an automated turbocharges production line in the UK.
