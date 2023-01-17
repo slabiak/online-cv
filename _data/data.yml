@@ -3,219 +3,186 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Tomasz Slabiak
+  tagline: Java Backend Developer
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+  # Sidebar links
+  email: slabiak.tomasz@gmail.com
+  phone: 048 796 504 782
+  timezone: CET Timezone
+  citizenship:
+  website: blog.webjeda.com #do not add http://
+  linkedin: slabiak
+  xing:
+  github: slabiakt
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: 4910038/a4dev92
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: #http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: Professional
 
-        - idiom: French
-          level: Professional
+      - idiom: Polish
+        level: Native
 
-        - idiom: Spanish
-          level: Professional
+  interests:
+    title: Interests
+    info:
+      - item: Skiing
+        link:
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+      - item: MTB/enduro
+        link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+      - item: Travel
+        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+  title: Career Profile
+  summary: |
+    Software engineer specializing in backend technologies with 6 years of commercial experience. For the last four years I have been working as a Java backend developer mostly in the financial sector both in large organizations like the largest Swiss bank UBS or small startups like Faire.ai. For the first two years of my career I was working as a robotic engineer who was programming robots and PLC controllers, in the automotive industry.
 education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+  title: Education
+  info:
+    - degree: MSc in Robotics
+      university: AGH Unviersity of Science and Technology
+      time: 2015 - 216
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Robotics
+      university: Bristol University
+      time: 2011 - 2015
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+  title: Experiences
+  info:
+    - role: Senior Java Backend Developer
+      time: 05.2022 - Present
+      company: SoftwareMill, Warsaw
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Java Backend Developer
+      time: 04.2021 - 05.2022
+      company: SoftwareMill, Warsaw
+      details: |
+        Working as a contractor in italian fintech startup called Faire.ai. I was the only 
+        engineer responsible for developing a green field project which was
+        a backend Java application for BNPL solution.
+        - Bullet point
+        - Bullet point
+    - role: Java Backend Engineer
+      time: 06.2019 - 04.2021
+      company: UBS Investment Bank, Wroclaw
+      details: |
+        One of two developers responsible for developing and maintaining 7 micro-services written in Java 8 + Spring Boot + Cassandra + Redis
+        + Websockets.
+          - Bullet point
+          - Bullet point
+    - role: Robotics Engineer
+      time: 09.2018 - 01.2019
+      company: RW Swiss Automation, Poznan
+      details: |
+        Responsible for off line programming and virtual commissioning of ABB robots in RAPID language. 
+        The project was a production assembly line for Vinfast cars in Vietnam.
+          - Bullet point
+          - Bullet point
+    - role:
+      time: 05.2017 - 08.2018
+      company: RW Swiss Automation, Poznan
+      details: |
+        I was developing and commissioning software for PLC controllers in LAD language. 
+        I was involved in a project for Borgwarner, where I was writing software for an automated turbocharges production line in the UK.
+
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: Projects
+  intro: >
+    Below project are projects that I made in my free time while learning new technology.
+  assignments:
+    - title: AppoointmentScheduler
+      link: "https://github.com/slabiak/AppointmentScheduler"
+      tagline: "Web application to schedule appointments between people who
+offer services and people who use that services. This was the project I made for the purpose
+of learning Spring framework. Technologies / libraries used: Java, Spring, Hibernate,
+ThymeLeaf, Bootstrap, MySQL, JWT, FlyingSaucer, FullCalendar, Table.js, AJAX, jUnit,
+Mockito, Maven, JSON, MVC."
+    - title: Xloads
+      link: "https://github.com/slabiak/xloads"
+      tagline: "Web application which lists rooms/flats to rent with each one having calculated time of travel
+        (by car, foot, bike or public transportation) to place selected by user (for example their work or school). This is my first full-stack project where I developed backend (Java &
+Spring) and frontend (React). This application is completely independent of external APIs like
+Google Maps. All routing, geocoding, reversed geocoding and autocomplete for place search
+is done with the use of open source solutions (GrapHopper, OpenStreetPlanner, Photon and
+OpenStreetMap). More details on project’s site. This project is still under heavy development."
 
 oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+  title: OSS Contributions
+  intro: >
+    You can list your open source software contributions in this
+    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  contributions:
+    - title: Tapir
+      link: "https://github.com/softwaremill/tapir/pulls?q=is%3Apr+author%3Aslabiakt+is%3Aclosed"
+      tagline: "I made 5 pull requests to an open source scala library called Tapir."
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+  toolset:
+    - name: Java & Spring
+      level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+    - name: SQL
+      level: 80%
 
-      - name: Angular
-        level: 98%
+    - name: Cassandra
+      level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+    - name: Microservices
+      level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+    - name: Azure
+      level: 60%
 
-      - name: Sketch & Photoshop
-        level: 60%
+    - name: Groovy & Grails
+      level: 60%
 
+    - name: Blockchain (Solidity)
+      level: 40%
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
